@@ -13,14 +13,14 @@
 
 window.SJD_ENTRIES = [
   { id: "spit-eyes",t: "Cured a man's blindness with spit.",n: "Applied directly to the eyes.",r: "Mark 8:23",i: "eye" },
-  { id: "mud-eyes",t: "Made mud out of spit and put it on a blind man's eyes.",n: "Thanks...do you have a wet wipe?",r: "John 9:6",i: "eye" },
+  { id: "mud-eyes",t: "Made mud out of spit and put it on a blind man's eyes.",n: "Thanks...do you have a wet wipe?",r: "John 9:6",i: "eye2" },
   { id: "fig-tree",t: "Cursed a fig tree for not having figs.",n: "It was not fig season.",r: "Mark 11:13–14",i: "tree" },
   { id: "storm-nap",t: "Took a nap during a storm. On a boat.",n: "In the stern, on a cushion.",r: "Mark 4:38",i: "pillow" },
-  { id: "storm-quiet",t: "Told the storm to be quiet. It was.",r: "Mark 4:39",i: "wave" },
+  { id: "storm-quiet",t: "Told a storm to be quiet.",n: "Asked and answered.",r: "Mark 4:39",i: "wave" },
   { id: "walked-on-water",t: "Walked on water.",n: "Sometime between 3 and 6 a.m.",r: "Matthew 14:25",i: "wave" },
   { id: "water-to-wine",t: "Turned roughly 150 gallons of water into wine.",n: "The good stuff, per the head waiter.",r: "John 2:6–10",i: "cup" },
-  { id: "whip",t: "Made a whip out of cords. By hand.",n: "This took time. It was not an impulse.",r: "John 2:15",i: "whip" },
-  { id: "tables",t: "Flipped the money changers' tables.",r: "Matthew 21:12",i: "table" },
+  { id: "whip",t: "Made a whip out of cords. By hand.",n: "You can't just make one on a whim either. Had to plan ahead.",r: "John 2:15",i: "whip" },
+  { id: "tables",t: "Flipped the money changers' tables.",n: "It's funnier if you picture him smashing the table like a Bills fan.",r: "Matthew 21:12",i: "table" },
   { id: "wept",t: "Wept.",n: "Shortest verse in the Bible.",r: "John 11:35",i: "tear" },
   { id: "wrote-in-dirt",t: "Wrote something in the dirt with his finger.",n: "No one knows what.",r: "John 8:6",i: "scribble" },
   { id: "beach-breakfast",t: "Grilled fish on the beach for his friends. After rising from the dead.",r: "John 21:9–12",i: "fire" },
